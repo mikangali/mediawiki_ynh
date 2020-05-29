@@ -1,5 +1,5 @@
-SOURCE_URL=https://extdist.wmflabs.org/dist/extensions/LDAPAuthorization-REL1_33-0eb9ef4.tar.gz
-SOURCE_SUM=7c9fd5289a9563d84a8622b39f98482d3ee94625c25eb2d093f189a60feab27e
+SOURCE_URL=https://extdist.wmflabs.org/dist/extensions/LDAPAuthorization-master-1a0a38f.tar.gz
+SOURCE_SUM=5d9bf326764063a159bff34a69ca76d54f84db8af66b5407ee12725ed80d0892
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=false

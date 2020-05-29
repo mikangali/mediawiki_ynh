@@ -1,5 +1,5 @@
-SOURCE_URL=https://extdist.wmflabs.org/dist/extensions/LDAPProvider-REL1_31-3d9d3a3.tar.gz
-SOURCE_SUM=70f428666d6849e58bcb0a116ccff02e3ad60f2f9ff26bdf0e98340473e935e1
+SOURCE_URL=https://extdist.wmflabs.org/dist/extensions/LDAPGroups-master-ed594ff.tar.gz
+SOURCE_SUM=533ea10a30e26730d1c7566b6bc4c2a2ea4b3481b2b170ea08f17fadeee1950e
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=false
